@@ -1,5 +1,5 @@
 this is being done in my dev branch
 
-this might make a merge comflict :(
+this might make a merge conflict :(
 
 im doing this in another branch now (issue-1)
